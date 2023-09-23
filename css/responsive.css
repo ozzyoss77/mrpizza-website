@@ -19,6 +19,10 @@
     margin-left: 5px;
     margin-right: 5px;
   }
+
+  .box-img2 {
+    width: 100%;
+  }
 }
 
 @media (max-width: 767px) {
@@ -44,7 +48,6 @@
   }
 
   .app_section {
-    background: #4855fe;
     padding: 75px 0;
   }
 
